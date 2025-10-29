@@ -1,0 +1,1 @@
+You need to download this repository from GitHub by yourself and follow its instructions to install it.
